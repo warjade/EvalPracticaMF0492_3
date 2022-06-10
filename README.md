@@ -1,1 +1,3 @@
 # EvalPracticaMF0492_3
+SHA1 File Checksum
+9e9492b62e68c3130903a50a07f5bd5cc5d4ef34
